@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Doorbell</string>
+    <string name="doorbell_notification_service_active">Doorbell Notification Service Active!</string>
+    <string name="you_will_receive_notifications_when_your_doorbell_rings">You will receive notifications when your doorbell rings.</string>
+    <string name="search_by_date">Search by Date</string>
+    <string name="clear_logs">Clear Logs</string>
+    <string name="showing_logs_for_date">Showing logs for: %1$s</string>
+</resources>
